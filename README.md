@@ -23,4 +23,4 @@ Mettre mes compétences techniques au service de projets à impact réel, qu’i
 ## 💡 Curieux et rigoureux
 J’aime comprendre les systèmes en profondeur et proposer de nouvelles solutions adaptées aux spécificités de chaque projet.
 
-## ♟ Amateur d’échecs, passionné de lecture et toujours en apprentissage continu.
+**♟ Amateur d’échecs, passionné de lecture et toujours en apprentissage continu.**
