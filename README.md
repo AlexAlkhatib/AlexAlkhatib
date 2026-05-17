@@ -1,5 +1,7 @@
 # 👋 Bonjour, je suis Alex
 
+<img src="alex_alkhatib_animation.svg"/>
+
 Ingénieur en informatique spécialisé en Intelligence Artificielle, passionné par la conception de solutions innovantes et performantes.
 
 Je m’intéresse particulièrement au développement logiciel, au traitement et à la visualisation des données, ainsi qu’à l’automatisation intelligente des systèmes.
