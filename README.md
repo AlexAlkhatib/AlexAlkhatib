@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Alex
+# 👋 Bonjour, je suis
 
 <img src="alex_alkhatib_animation.svg"/>
 
