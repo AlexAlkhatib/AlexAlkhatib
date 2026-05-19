@@ -8,7 +8,7 @@ Je m’intéresse particulièrement au développement logiciel, au traitement et
 
 ## Au cours de mon parcours, j’ai travaillé sur des projets mêlant :
 
-* Développement back-end (Java, Spring, Python)
+* Développement Full-Stack
 
 * Conception d’API et d’architectures logicielles
 
