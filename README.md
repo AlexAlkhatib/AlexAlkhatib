@@ -18,7 +18,7 @@ Mettre mes compétences techniques au service de projets à impact réel, qu’i
 J’aime comprendre les systèmes en profondeur et proposer de nouvelles solutions adaptées aux spécificités de chaque projet.
 <br><br>
 **♟ Amateur d’échecs, passionné de lecture et toujours en apprentissage continu.**
-<br>
+<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alex-alkhatib-info) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@alexalkhatib) 
