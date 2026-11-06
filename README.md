@@ -1,5 +1,25 @@
-# 👋 Bonjour, je suis<br><br><img src="alex_alkhatib_animation.svg"/><br><br>Ingénieur en informatique spécialisé en Intelligence Artificielle, passionné par la conception de solutions innovantes et performantes.<br><br>Je m’intéresse particulièrement au développement logiciel, au traitement et à la visualisation des données, ainsi qu’à l’automatisation intelligente des systèmes.<br><br>## Au cours de mon parcours, j’ai travaillé sur des projets mêlant :<br><br>* Développement Full-Stack<br><br>* Conception d’API et d’architectures logicielles<br><br>* Machine Learning et analyse de données<br><br>* Structuration et optimisation de bases de données<br><br>* Méthodologies Agile et bonnes pratiques de développement<br><br><br>## 🎯 Ce qui me motive :<br>Mettre mes compétences techniques au service de projets à impact réel, qu’ils soient publics, scientifiques ou technologiques.<br><br>## 💡 Curieux et rigoureux<br>J’aime comprendre les systèmes en profondeur et proposer de nouvelles solutions adaptées aux spécificités de chaque projet.<br><br>**♟ Amateur d’échecs, passionné de lecture et toujours en apprentissage continu.**<br>
-
+# 👋 Bonjour, je suis
+<br><br>
+<img src="alex_alkhatib_animation.svg"/>
+<br><br>
+Ingénieur en informatique spécialisé en Intelligence Artificielle, passionné par la conception de solutions innovantes et performantes.
+<br><br>
+Je m’intéresse particulièrement au développement logiciel, au traitement et à la visualisation des données, ainsi qu’à l’automatisation intelligente des systèmes.<br><br>
+## Au cours de mon parcours, j’ai travaillé sur des projets mêlant:
+<br><br>
+* Développement Full-Stack
+* Conception d’API et d’architectures logicielles
+* Machine Learning et analyse de données
+* Structuration et optimisation de bases de données
+* Méthodologies Agile et bonnes pratiques de développement
+## 🎯 Ce qui me motive:
+Mettre mes compétences techniques au service de projets à impact réel, qu’ils soient publics, scientifiques ou technologiques.
+<br><br>
+## 💡 Curieux et rigoureux 
+J’aime comprendre les systèmes en profondeur et proposer de nouvelles solutions adaptées aux spécificités de chaque projet.
+<br><br>
+**♟ Amateur d’échecs, passionné de lecture et toujours en apprentissage continu.**
+<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alex-alkhatib-info) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@alexalkhatib) 
