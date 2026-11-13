@@ -10,7 +10,7 @@ Je m’intéresse particulièrement au développement logiciel, au traitement et
 
 <br><br>
 
-## 🚀 Au cours de mon parcours, j’ai travaillé sur des projets mêlant
+## ✨ Au cours de mon parcours, j’ai travaillé sur des projets mêlant
 
 * Développement Full-Stack
 * Conception d’API et d’architectures logicielles
