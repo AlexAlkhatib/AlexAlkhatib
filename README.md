@@ -38,7 +38,9 @@ J’aime comprendre les systèmes en profondeur et proposer de nouvelles solutio
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-alkhatib-info) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@alexalkhatib)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-alkhatib-info)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@alexalkhatib)
+[![My Portfolio](https://img.shields.io/badge/My-Portfolio-red)](https://alexalkhatib.github.io/)
 
 <br><br>
 
