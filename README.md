@@ -201,7 +201,7 @@ J’aime comprendre les systèmes en profondeur et proposer de nouvelles solutio
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlexAlkhatib)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://trophy.ryglcloud.net/?username=AlexAlkhatib)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br><br>
 
