@@ -208,4 +208,6 @@ J’aime comprendre les systèmes en profondeur et proposer de nouvelles solutio
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=AlexAlkhatib&label=Profile%20Views&color=0e75b6&style=for-the-badge)
