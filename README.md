@@ -199,6 +199,12 @@ J’aime comprendre les systèmes en profondeur et proposer de nouvelles solutio
 
 <br><br>
 
+## 🏆 GitHub Trophies
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AlexAlkhatib&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br><br>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
