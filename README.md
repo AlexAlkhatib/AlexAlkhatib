@@ -1,3 +1,12 @@
+<!-- NEON HEADER -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:111B3D,75:5427A8,100:00E5FF&height=210&section=header&animation=twinkling"
+    alt="Neon gradient header"
+    width="100%"
+  />
+</p>
+
 # 👋 Bonjour, je suis
 
 <br><br>
@@ -10,6 +19,8 @@ Je m’intéresse particulièrement au développement logiciel, au traitement et
 
 <br><br>
 
+---
+
 ## 🚀 Au cours de mon parcours, j’ai travaillé sur des projets mêlant
 
 * Développement Full-Stack
@@ -20,11 +31,15 @@ Je m’intéresse particulièrement au développement logiciel, au traitement et
 
 <br><br>
 
+---
+
 ## 🎯 Ce qui me motive
 
 Mettre mes compétences techniques au service de projets à impact réel, qu’ils soient publics, scientifiques ou technologiques.
 
 <br><br>
+
+---
 
 ## 💡 Curieux et rigoureux
 
@@ -36,6 +51,8 @@ J’aime comprendre les systèmes en profondeur et proposer de nouvelles solutio
 
 <br><br>
 
+---
+
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-alkhatib-info)
@@ -43,6 +60,8 @@ J’aime comprendre les systèmes en profondeur et proposer de nouvelles solutio
 [![My Portfolio](https://img.shields.io/badge/My-Portfolio-red)](https://alexalkhatib.github.io/)
 
 <br><br>
+
+---
 
 ## 💻 Tech Stack
 
@@ -189,6 +208,8 @@ J’aime comprendre les systèmes en profondeur et proposer de nouvelles solutio
 
 <br><br>
 
+---
+
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=AlexAlkhatib&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -199,11 +220,15 @@ J’aime comprendre les systèmes en profondeur et proposer de nouvelles solutio
 
 <br><br>
 
+---
+
 ## 🏆 GitHub Trophies
 
 [![GitHub Trophies](https://trophy.ryglcloud.net/?username=AlexAlkhatib)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br><br>
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -211,3 +236,15 @@ J’aime comprendre les systèmes en profondeur et proposer de nouvelles solutio
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AlexAlkhatib&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
+<!-- NEON FOOTER -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,45:5427A8,100:050816&height=120&section=footer"
+    alt="Neon footer"
+    width="100%"
+  />
+</p>
+<p align="center">
+  <sub>⚡ Built with curiosity, creativity &amp; continuous learning.</sub>
+</p>
